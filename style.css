@@ -51,9 +51,11 @@ section {
 
 aside {
     float: left;
-    width: 495px;
+    width: 475px;
     padding: 20px;
     margin-bottom: 20px;
+    height: 298px;
+    margin-left: 20px;
 }
 
 footer {
